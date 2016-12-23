@@ -42,6 +42,11 @@ Let's trace the front-end routing in Sensus.
 ## Advice and Words of Encouragement
 
 - Progressing from step-by-step instructions to "Build me the Uber of Popcorn"
+- `console.log()` all the things!
+  - Not sure if you're on the back end or front end?  `console.log()`
+  - Not sure what that variable is? `console.log()`
+  - Is this an object or an array?  `console.log()`
+  - ....
 - Retreading old material is key
   - Zeb and Nick needed to look at old lessons to finish their full stack apps, too
 - No new homework over the break
