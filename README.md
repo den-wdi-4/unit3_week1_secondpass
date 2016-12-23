@@ -2,7 +2,7 @@
 
 ## Definitions
 
-[What is a directive?](https://docs.angularjs.org/guide/directive)
+### [What is a directive?](https://docs.angularjs.org/guide/directive)
 
 - A **directive** is a marker on a DOM element (such as an attribute, element name, comment or CSS class) that tell AngularJS to attach a specified behavior to that DOM element (e.g. via event listeners like `click` or `change`), or even to transform the DOM element and its children.
 
@@ -10,7 +10,7 @@
 
 [W3Schools perspective on directives](http://www.w3schools.com/angular/angular_directives.asp)
 
-What is a promise?
+### What is a promise?
 
 - A **promise** is a method that eventually produces a value.
 
