@@ -33,11 +33,11 @@ Let's trace the front-end routing in Sensus.
 
 ### ngRoute
 
-- [Documentation](http://www.w3schools.com/angular/angular_routing.asp) at the bottom of [Angular Routing Lab](https://github.com/den-wdi-2/angular_routing_lab)
+- [Documentation](http://www.w3schools.com/angular/angular_routing.asp) at the bottom of [Angular Routing Lab](https://github.com/den-materials/angular_routing_lab)
 
 ### Reviewing old "Resources"
 
-- It's worth noting that the [ngResource tutorial](https://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/) I put in slack was also in the "Resources" section at the bottom of the ngResource lesson.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag me in #wdi-den-halloween.
+- It's worth noting that the [ngResource tutorial](https://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/) we used for the $resource lesson also in the "Resources" section at the bottom of the README.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag Nick or Zeb in #wdi3.
 
 ## Advice and Words of Encouragement
 
@@ -49,8 +49,6 @@ Let's trace the front-end routing in Sensus.
   - ....
 - Retreading old material is key
   - Zeb and Nick needed to look at old lessons to finish their full stack apps, too
-- No new homework over the break
-  - Zeb available once, daily over break for any issues (tag him in #wdi-den-halloween)
 - Lately, only difficulty is passing a thing from one place to the next
   - Basically web development in a nutshell
 - Such a drive for comprehension
