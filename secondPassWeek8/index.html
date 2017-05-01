@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Second Pass Yo!</title>
+	<script src="bower_components/angular/angular.min.js"></script>
+	<script src="bower_components/angular-route/angular-route.min.js"></script>
+	<script src="scripts/app.js"></script>
+</head>
+<body ng-app="secondPass">
+	<div>
+		<a href="#!/">Home</a>
+		<a href="#!/about">About</a>
+	</div>
+	<div ng-controller="SecondPassController as lilSegundo">
+		<div>
+			<input type="text" ng-model="lilSegundo.constantlyUpdating" ng-change="lilSegundo.update()">
+			<h2>{{lilSegundo.constantlyUpdating}}</h2>
+		</div>
+		{{lilSegundo.helloWorld}}
+		<h1>One Cat: {{lilSegundo.oneCat}}</h1>
+		<ul>
+			<li ng-repeat="cat in lilSegundo.allCats">{{cat.name}} - {{cat.note}}</li>
+		</ul>
+	</div>
+	<second-directive derogative="Loser"></second-directive>
+	<second-directive derogative="Unicorn"></second-directive>
+	<ng-view></ng-view>
+</body>
+</html>
