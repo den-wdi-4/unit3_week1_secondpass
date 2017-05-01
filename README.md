@@ -4,7 +4,7 @@
 
 ### [What is a directive?](https://docs.angularjs.org/guide/directive)
 
-- A **directive** is a marker on a DOM element (such as an attribute, element name, comment or CSS class) that tell AngularJS to attach a specified behavior to that DOM element (e.g. via event listeners like `click` or `change`), or even to transform the DOM element and its children.
+- A **directive** is a marker on a DOM element (such as an attribute, element name, comment or CSS class) that tells AngularJS to attach a specified behavior to that DOM element (e.g. via event listeners like `click` or `change`), or even to transform the DOM element and its children.
 
 >**TLDR:** It is a piece of HTML that allows you to do Javascript things.
 
