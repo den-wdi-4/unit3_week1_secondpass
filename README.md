@@ -27,7 +27,19 @@ Here are some helpful links on Observables and Subjects to help clarify what the
 - [When to Use a Subject](http://davesexton.com/blog/post/To-Use-Subject-Or-Not-To-Use-Subject.aspx)
 - [Marble Diagrams for Observables](http://rxmarbles.com/)
 
-### Reviewing old Resources
+## Angular Punctuation
+
+We've learned a lot of Angular punctuation this week.  Here is a quick review of what they all mean:
+
+![](punctuation1.png)
+
+![](punctuation2.png)
+
+But sometimes we will see properties without the `[]`s around them.  What does that mean?  Well, if we have `[]`, we will evaluate the expression in Javascript.  If we don't, we will simply see the property as a string.  For example:
+
+![](punctuation3.png)
+
+## Reviewing old Resources
 
 - A lot of helpful links are in the "Resources" section at the bottom of every lesson README.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag Nick or Zeb in #wdi4.
 
