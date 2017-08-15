@@ -18,6 +18,15 @@ This example came from [this blog post](https://www.toptal.com/javascript/javasc
 
 Not enough on promises?  Check out [this Google mammoth](https://developers.google.com/web/fundamentals/getting-started/primers/promises) on Promises.
 
+### Observables and Subjects
+
+Here are some helpful links on Observables and Subjects to help clarify what they do.
+
+- [Observable Intro](http://reactivex.io/documentation/observable.html)
+- [Subject Intro](http://reactivex.io/documentation/subject.html) - Contains helpful links within as well
+- [When to Use a Subject](http://davesexton.com/blog/post/To-Use-Subject-Or-Not-To-Use-Subject.aspx)
+- [Marble Diagrams for Observables](http://rxmarbles.com/)
+
 ### Reviewing old Resources
 
 - A lot of helpful links are in the "Resources" section at the bottom of every lesson README.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag Nick or Zeb in #wdi4.
