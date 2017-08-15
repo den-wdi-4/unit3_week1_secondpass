@@ -20,24 +20,9 @@ This example came from [this blog post](https://www.toptal.com/javascript/javasc
 
 Not enough on promises?  Check out [this Google mammoth](https://developers.google.com/web/fundamentals/getting-started/primers/promises) on Promises.
 
-## ui-router
+### Reviewing old Resources
 
-Let's trace the front-end routing in Sensus.
-
-## Tutorials and such:
-
-### Angular Auth
-
-- [Satellizer MEAN stack tutorial](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
-- [The Angular Auth repo](https://github.com/den-wdi-2/angular-auth-satellizer) has a lot of good resources at the bottom
-
-### ngRoute
-
-- [Documentation](http://www.w3schools.com/angular/angular_routing.asp) at the bottom of [Angular Routing Lab](https://github.com/den-materials/angular_routing_lab)
-
-### Reviewing old "Resources"
-
-- It's worth noting that the [ngResource tutorial](https://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/) we used for the $resource lesson also in the "Resources" section at the bottom of the README.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag Nick or Zeb in #wdi3.
+- A lot of helpful links are in the "Resources" section at the bottom of every lesson README.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag Nick or Zeb in #wdi4.
 
 ## Advice and Words of Encouragement
 
