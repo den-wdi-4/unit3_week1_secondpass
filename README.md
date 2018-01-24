@@ -42,7 +42,7 @@ But sometimes we will see properties without the `[]`s around them.  What does t
 
 ## Reviewing old Resources
 
-- A lot of helpful links are in the "Resources" section at the bottom of every lesson README.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag Nick or Zeb in #wdi4.
+- A lot of helpful links are in the "Resources" section at the bottom of every lesson README.  If you need a second pass on anything we didn't cover today, go back to the bottom section of any particular topic.  If you don't find what you need, please tag Zeb in #wdi6.
 
 ## Advice and Words of Encouragement
 
@@ -53,7 +53,7 @@ But sometimes we will see properties without the `[]`s around them.  What does t
   - Is this an object or an array?  `console.log()`
   - ....
 - Retreading old material is key
-  - Zeb and Nick needed to look at old lessons to finish their full stack apps, too
+  - Zeb needs to look at old lessons to finish their full stack apps, too
 - Lately, only difficulty is passing a thing from one place to the next
   - Basically web development in a nutshell
 - Such a drive for comprehension
